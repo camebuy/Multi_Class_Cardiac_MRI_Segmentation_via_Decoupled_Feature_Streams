@@ -1,0 +1,10 @@
+# Reuse the experiment environment for numerical comparisons.
+# These are direct dependencies, not a lockfile for the original training run.
+torch
+numpy
+opencv-python-headless
+albumentations
+scipy
+scikit-learn
+Pillow
+tqdm
